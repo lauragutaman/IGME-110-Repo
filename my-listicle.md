@@ -2,7 +2,7 @@
 ---
 ## Downtown Rochester 
 - [Hyra Coffee House](http://hydracoffeehouse.com/)
-- [White Swan Cofffe](http://www.winterswancoffee.com/)
+- [White Swan Coffee](http://www.winterswancoffee.com/)
 - [Javas Gibbs Street](http://www.javascafe.com/)
 
 ## Henrietta 
