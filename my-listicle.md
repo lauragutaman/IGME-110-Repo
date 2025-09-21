@@ -5,7 +5,7 @@
 [White Swan Cofffe](http://www.winterswancoffee.com/)
 [Javas Gibbs Street](http://www.javascafe.com/)
 
-## Heriennta 
+## Henrietta 
 [Layali Coffee House](https://order.toasttab.com/online/layali-coffee-house-942-jefferson-road)
 [Localist Coffee](https://localistcoffee.com/)
 [Golden Harvest Bakery & Cafe LLC](http://ghbacafe.square.site/)
