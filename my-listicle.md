@@ -6,6 +6,7 @@
 - [White Swan Coffee](http://www.winterswancoffee.com/)
 - [Javas Gibbs Street](http://www.javascafe.com/)
 
+
 **Henrietta**
 - [Layali Coffee House](https://order.toasttab.com/online/layali-coffee-house-942-jefferson-road)
 - [Localist Coffee](https://localistcoffee.com/)
