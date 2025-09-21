@@ -1,11 +1,12 @@
 # Coffee Shops Great for Studying in Rochester
 ---
-## Downtown Rochester 
+## Locations
+**Downtown Rochester**
 - [Hyra Coffee House](http://hydracoffeehouse.com/)
 - [White Swan Coffee](http://www.winterswancoffee.com/)
 - [Javas Gibbs Street](http://www.javascafe.com/)
 
-## Henrietta 
+**Henrietta**
 - [Layali Coffee House](https://order.toasttab.com/online/layali-coffee-house-942-jefferson-road)
 - [Localist Coffee](https://localistcoffee.com/)
 - [Golden Harvest Bakery & Cafe LLC](http://ghbacafe.square.site/)
